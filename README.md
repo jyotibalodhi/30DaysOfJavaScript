@@ -22,4 +22,6 @@ Day 8:- Fun with HTML5 Canvas
 
 Day 9:- Dev Tools Domination
 
-Day 10:- Hold Shift and check checkboxes 
+Day 10:- Hold Shift and check checkboxes
+
+Day 11:- Custom Video Player
