@@ -25,3 +25,5 @@ Day 9:- Dev Tools Domination
 Day 10:- Hold Shift and check checkboxes
 
 Day 11:- Custom Video Player
+
+Day 12:- Key Sequence Detection(KONAMI CODE)
