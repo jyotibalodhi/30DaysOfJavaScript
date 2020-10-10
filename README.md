@@ -31,3 +31,5 @@ Day 12:- Key Sequence Detection(KONAMI CODE)
 Day 13:- Slide in on scroll
 
 Day 14:-JavaScript References VS Copying
+
+Day 15:- Local Storage
