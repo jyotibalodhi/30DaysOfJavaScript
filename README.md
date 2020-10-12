@@ -35,3 +35,5 @@ Day 14:-JavaScript References VS Copying
 Day 15:- Local Storage
 
 Day 16:- Mouse Move shadow
+
+Day 17:- Sorting Band names without articles
