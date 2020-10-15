@@ -41,3 +41,5 @@ Day 17:- Sorting Band names without articles
 Day 18:- Adding Up Times with Reduce
 
 Day 19:- Unreal Webcam fun
+
+Day 20:- Speech Recognition
