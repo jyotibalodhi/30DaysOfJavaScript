@@ -43,3 +43,5 @@ Day 18:- Adding Up Times with Reduce
 Day 19:- Unreal Webcam fun
 
 Day 20:- Speech Recognition
+
+Day 21:- Geolocation based speedometer and compass
