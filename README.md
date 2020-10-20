@@ -45,3 +45,11 @@ Day 19:- Unreal Webcam fun
 Day 20:- Speech Recognition
 
 Day 21:- Geolocation based speedometer and compass
+
+Day 22:- Follow along link highlighter
+
+Day 23:- Speech Synthesis
+
+Day 24:- Sticky Navbar
+
+Day 25:- Event Capture, Propagation, Bubbling and once
