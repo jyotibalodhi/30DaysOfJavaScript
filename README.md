@@ -53,3 +53,5 @@ Day 23:- Speech Synthesis
 Day 24:- Sticky Navbar
 
 Day 25:- Event Capture, Propagation, Bubbling and once
+
+Day 26:- Stripe Follow Along Nav
