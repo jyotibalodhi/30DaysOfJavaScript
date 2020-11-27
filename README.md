@@ -65,3 +65,5 @@ Day 29:- Countdown timer
 Day 30:- Whack a mole
 
 ##And the 30 days of JavaScript Challenge ends here!!!
+
+Try this to learn new things.
